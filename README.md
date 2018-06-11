@@ -4,12 +4,12 @@ I wanted to build something that will have some effort put into it. For me, it d
 
 Here are few screenshots:
 
-[img]https://i.imgur.com/Ns8vSjQ.png[/img]
+![img1](https://i.imgur.com/Ns8vSjQ.png)
 
-[img]https://i.imgur.com/0DdWAbv.png[/img]
+![img2](https://i.imgur.com/0DdWAbv.png)
 
-[img]https://i.imgur.com/qgSvFtq.png[/img]
+![img3](https://i.imgur.com/qgSvFtq.png)
 
-[img]https://i.imgur.com/kzpS0EO.png[/img]
+![img4](https://i.imgur.com/kzpS0EO.png)
 
-[img]https://i.imgur.com/DWZ7mWc.png[/img]
+![img5](https://i.imgur.com/DWZ7mWc.png)
